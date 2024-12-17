@@ -1,1 +1,15 @@
 # Digit-Recognizer
+
+This is Scratch code of Digit Recognizer with numpy and no TF/Keras.
+
+I got this from a youtuber reference.
+
+For the datasets of Train and Testing data sets, get those from here below link
+
+https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras
+
+I made a lot of changes on his code and i got 83.2% accuracy of finding digits.
+
+If you want another references go to kaggle and search this prompt -- "Digit Recognizer".
+
+There you will get a lot of references and even various types of code with differnet types of frameworks and datasets for each code.
