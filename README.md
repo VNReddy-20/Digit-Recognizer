@@ -2,6 +2,8 @@
 
 This is Scratch code of Digit Recognizer with numpy and no TF/Keras.
 
+The Digit Recognizer project is a machine learning-based project designed to classify and identify numbers. This project is a trained model to deliver almost accurate predictions.
+
 I got this from a youtuber reference.
 
 For the datasets of Train and Testing data sets, get those from here below link
