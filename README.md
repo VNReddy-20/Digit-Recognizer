@@ -17,3 +17,5 @@ If you want another references go to kaggle and search this prompt -- "Digit Rec
 There you will get a lot of references and even various types of code with differnet types of frameworks and datasets for each code.
 
 If you had a trouble of using or using first time of google colab or don't know how to use these platforms. Try yourself on the Kaggle notebook. It is freindly interface for the beginners.
+
+There is a similar project i was done named Dog Breed Identification which figure outs the dog breeds by giving the output of dog breed images with names.
